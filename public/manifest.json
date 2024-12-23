@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "0.0.1",
+    "name": "Chrome Extension Starter",
+    "description": "A Chrome extension starter template",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "permissions": ["activeTab", "scripting"],
+    "icons": {},
+    "content_scritps": [],
+    "options_page": ""
+}
